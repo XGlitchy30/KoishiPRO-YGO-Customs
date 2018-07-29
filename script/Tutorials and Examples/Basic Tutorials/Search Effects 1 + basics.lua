@@ -33,8 +33,8 @@ function c10101010.initial_effect(c)
 	e2x:SetCode(EVENT_SPSUMMON_SUCCESS)
 	c:RegisterEffect(e2x)
 	local e2y=e2:Clone()
-	e2:SetCode(EVENT_FLIP_SUMMON_SUCCESS)
-	c:RegisterEffect(e2)
+	e2y:SetCode(EVENT_FLIP_SUMMON_SUCCESS)
+	c:RegisterEffect(e2y)
 	--The Clone functions allows us to copy an effect (e2 in this case) and to change only the things that need to be modified (the SetCodes)
 	--Go to the SPECIAL SUMMONING block below if you want to know more about this effect
 	
