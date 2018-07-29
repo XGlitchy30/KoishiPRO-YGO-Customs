@@ -1,7 +1,7 @@
 --Tutoranger ReSearcher (by XGlitchy30)
 --In this section you will learn how to script some effects related to searching and adding cards to the hand
 --In addition, there are also a few basic things about costs, filters, effect types etc...
---It is advisable to follow the script in the correct order by reading one effect at a time
+--It is advisable to follow the script in the correct order by reading one effect at a time (also open the tutorial .cdb to see precisely the effect we're trying to script)
 
 function c10101010.initial_effect(c)
 	--We will start by learning two very simple things:
