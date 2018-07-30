@@ -1,5 +1,5 @@
 --Tutoranger ReSearcher (by XGlitchy30)
---In this section you will learn how to script some effects related to searching and adding cards to the hand
+--In this section you will learn how to script some effects related to searching and moving cards from a location to another
 --In addition, there are also a few basic things about costs, filters, effect types etc...
 --It is advisable to follow the script in the correct order by reading one effect at a time (also open the tutorial .cdb to see precisely the effect we're trying to script)
 
